@@ -1,1 +1,1 @@
-{"aLevels":[{"id":"0","name":"nexttoyou","version":0,"url":"na"},{"id":"1","name":"otherthing","version":0,"url":"na"}]}
+{"aLevels":[{"id":"202512212359","name":"nexttoyou","version":0,"LevelPackUrl":"https://github.com/MrRSGD/Xenobula_FIles/raw/refs/heads/main/Levels/next%20to%20you/level.dat","CoverUrl":"https://github.com/MrRSGD/Xenobula_FIles/raw/refs/heads/main/Levels/next%20to%20you/cover.dat","MusicUrl":"https://github.com/MrRSGD/Xenobula_FIles/raw/refs/heads/main/Levels/next%20to%20you/music.dat"}]}
